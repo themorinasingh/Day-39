@@ -17,7 +17,7 @@ class NotificationManager:
         message = client.messages.create(
             from_='+12076790712',
             body = self.message,
-            to = '+15062694986'
+            to = '1234567890'
         )
 
 
