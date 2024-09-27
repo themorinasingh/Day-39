@@ -2,8 +2,8 @@ import requests
 
 
 
-APIKEY = "WBEZgePGTYh5eLyIsjicMpWlpnj6TIBu"
-API_SECRET = 'GTAOwrgYdoGtMSDd'
+APIKEY = "YOURAPIKEY"
+API_SECRET = 'YOURAPISECRET'
 TOKEN_ENDPOINT = 'https://test.api.amadeus.com/v1/security/oauth2/token'
 
 class FlightSearch:
