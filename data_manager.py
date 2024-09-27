@@ -1,8 +1,8 @@
 import requests
 from pprint import pprint
 
-URL = 'https://api.sheety.co/1c296835569c77d1fcd715ee9a2f3d13/filghtDealsProject/prices'
-PUTURL = 'https://api.sheety.co/1c296835569c77d1fcd715ee9a2f3d13/filghtDealsProject/prices/'
+URL = 'https://api.sheety.co/{Your Key}/filghtDealsProject/prices'
+PUTURL = 'https://api.sheety.co/{Your Key}/filghtDealsProject/prices/'
 
 
 
